@@ -1,0 +1,24 @@
+h1 {
+    display: inline-block;
+}
+
+img {
+width: 2.5%;
+
+
+}
+
+.searchbar
+{
+    display: flex;
+    justify-content: center;
+    align-items : flex-start;
+}
+.searchkob
+{
+    width: 400px;
+    height: 25px;
+
+
+
+}
